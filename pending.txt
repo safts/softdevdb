@@ -1,0 +1,7 @@
+1) List implementation with pointer to the last element
+2) max document size must be checked
+3) iterator list
+4) error checking all around
+5) optimisation with bits in query matching
+6) tree height <=20
+7) rad in last vP nodes
